@@ -1,0 +1,3 @@
+// FTC Apps
+include(':FtcRobotController', ':openCVLibrary300')
+project(':openCVLibrary300').projectDir = new File('openCVLibrary300_src')
